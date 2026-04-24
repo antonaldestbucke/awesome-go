@@ -12,7 +12,7 @@ A curated list of awesome Go frameworks, libraries and software. Inspired by [aw
 >
 > **My current focus areas:** Distributed Systems, Error Handling, and Logging.
 >
-> **Last reviewed:** 2024-06 — working through the Distributed Systems and Messaging sections this month.
+> **Last reviewed:** 2024-07 — moved on to Error Handling and Goroutines sections this month.
 
 **Contributing:**
 
@@ -59,7 +59,3 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [Images](#images)
   - [IoT (Internet of Things)](#iot-internet-of-things)
   - [Job Scheduler](#job-scheduler)
-  - [JSON](#json)
-  - [Logging](#logging)
-  - [Machine Learning](#machine-learning)
-  - [Messaging](#messagi
