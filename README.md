@@ -9,6 +9,8 @@
 A curated list of awesome Go frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 > **Personal fork note:** I'm using this as a reference while learning Go. Sections I'm actively exploring are marked with ⭐ in my local notes.
+>
+> **My current focus areas:** Distributed Systems, Error Handling, and Logging.
 
 **Contributing:**
 
@@ -61,8 +63,4 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [Messaging](#messaging)
   - [Microsoft Office](#microsoft-office)
   - [Miscellaneous](#miscellaneous)
-  - [Natural Language Processing](#natural-language-processing)
-  - [Networking](#networking)
-  - [OpenGL](#opengl)
-  - [ORM](#orm)
-  - [Package 
+
