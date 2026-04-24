@@ -11,6 +11,8 @@ A curated list of awesome Go frameworks, libraries and software. Inspired by [aw
 > **Personal fork note:** I'm using this as a reference while learning Go. Sections I'm actively exploring are marked with ⭐ in my local notes.
 >
 > **My current focus areas:** Distributed Systems, Error Handling, and Logging.
+>
+> **Last reviewed:** 2024-06 — working through the Distributed Systems and Messaging sections this month.
 
 **Contributing:**
 
@@ -60,7 +62,4 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [JSON](#json)
   - [Logging](#logging)
   - [Machine Learning](#machine-learning)
-  - [Messaging](#messaging)
-  - [Microsoft Office](#microsoft-office)
-  - [Miscellaneous](#miscellaneous)
-
+  - [Messaging](#messagi
