@@ -8,6 +8,8 @@
 
 A curated list of awesome Go frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
+> **Personal fork note:** I'm using this as a reference while learning Go. Sections I'm actively exploring are marked with ⭐ in my local notes.
+
 **Contributing:**
 
 Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/awesome-go/awesome-go/graphs/contributors); you rock!
@@ -63,72 +65,4 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [Networking](#networking)
   - [OpenGL](#opengl)
   - [ORM](#orm)
-  - [Package Management](#package-management)
-  - [Performance](#performance)
-  - [Query Language](#query-language)
-  - [Reflection](#reflection)
-  - [Resource Embedding](#resource-embedding)
-  - [Science and Data Analysis](#science-and-data-analysis)
-  - [Security](#security)
-  - [Serialization](#serialization)
-  - [Server Applications](#server-applications)
-  - [Stream Processing](#stream-processing)
-  - [Template Engines](#template-engines)
-  - [Testing](#testing)
-  - [Text Processing](#text-processing)
-  - [Third-party APIs](#third-party-apis)
-  - [Utilities](#utilities)
-  - [UUID](#uuid)
-  - [Validation](#validation)
-  - [Version Control](#version-control)
-  - [Video](#video)
-  - [Web Frameworks](#web-frameworks)
-  - [WebAssembly](#webassembly)
-  - [Windows](#windows)
-  - [XML](#xml)
-  - [Zero Trust](#zero-trust)
-  - [Code Analysis](#code-analysis)
-  - [Editor Plugins](#editor-plugins)
-  - [Go Generate Tools](#go-generate-tools)
-  - [Go Tools](#go-tools)
-  - [Style Guides](#style-guides)
-  - [Social Media](#social-media)
-  - [Websites](#websites)
-
-**[⬆ back to top](#contents)**
-
-## Actor Model
-
-- [Goakt](https://github.com/tochemey/goakt) - Fast and Distributed Actor framework using protocol buffers as message for Golang.
-- [Hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang.
-- [ProtoActor](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
-
-**[⬆ back to top](#contents)**
-
-## Artificial Intelligence
-
-- [langchaingo](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
-- [LocalAI](https://github.com/mudler/LocalAI) - Free, Open Source alternative to OpenAI. Self-hosted and local-first.
-- [Ollama](https://github.com/jmorganca/ollama) - Run large language models locally.
-
-**[⬆ back to top](#contents)**
-
-## Web Frameworks
-
-- [Gin](https://github.com/gin-gonic/gin) - Gin is a web framework written in Go. It features a martini-like API with much better performance.
-- [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
-- [Fiber](https://github.com/gofiber/fiber) - An Express.js inspired web framework built on top of Fasthttp.
-- [Chi](https://github.com/go-chi/chi) - Small, idiomatic and composable router for building Go HTTP services.
-- [Beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
-
-**[⬆ back to top](#contents)**
-
-## Contributing
-
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this list.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Avelino](https://github.com/avelino) has waived all copyright and related or neighboring rights to this work.
+  - [Package 
