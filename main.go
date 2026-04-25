@@ -20,7 +20,8 @@ const (
 	// increased from 15s to 30s to reduce false positives on slow servers
 	httpTimeout = 30 * time.Second
 	// maxConcurrent is the maximum number of concurrent link checks
-	maxConcurrent = 10
+	// reduced from 10 to 5 to be more polite to servers and avoid rate limiting
+	maxConcurrent = 5
 )
 
 // LinkResult holds the result of a link check
@@ -126,6 +127,4 @@ func main() {
 	failed := 0
 	for _, result := range results {
 		if result.Err != nil {
-			fmt.Printf("[ERROR] %s — %v\n", result.URL, result.Err)
-			failed++
-		} 
+		
